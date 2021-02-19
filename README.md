@@ -1,37 +1,40 @@
-## Welcome to GitHub Pages
+# Bienvenid@ a mi GitHub Page :computer: :octocat:
 
-You can use the [editor on GitHub](https://github.com/MariaGalGon/MariaGalGon.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Esto es una prueba de como crear una GitHub Page.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Información básica
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+A continuación se ven los tipos de letra que se pueden usar en GitHub Pages.
 
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+- **Negrita**
+- Cursiva
+- `Código`
+- [Enlace]
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Para realizar una cita:
+> Se escribe así
+ 
+Para poner tareas se puede hacer así:
+- [ ] Tarea incompleta
+- [x] Tarea completada
 
-### Jekyll Themes
+Lo siguiente es una tabla:
+Título columna 1 | Título columna 2
+---------------- | ----------------
+Celda 1 | Celda 2
+Celda 3 | Celda 4
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MariaGalGon/MariaGalGon.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Para insertar imágenes se hace lo siguiente:
+![Image](/images/logo.png)
 
-### Support or Contact
+## Enlaces de interés
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+1. Como crear una [GitHub Page](https://guides.github.com/features/pages/).
+2. Información sobre el lenguaje [Markdown](https://guides.github.com/features/mastering-markdown/).
+3. [Documentación](https://docs.github.com/categories/github-pages-basics/) de GitHub sobre GitHub Pages.
+4. Distintos [emojis](https://www.webfx.com/tools/emoji-cheat-sheet/) para insertar en GitHub.
+
