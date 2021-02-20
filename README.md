@@ -1,4 +1,4 @@
-# Bienvenid@ a mi GitHub Page :computer: :octocat:
+# Bienvenid@ a mi GitHub Page
 
 Esto es una prueba de como crear una GitHub Page.
 
@@ -29,7 +29,7 @@ Celda 1 | Celda 2
 Celda 3 | Celda 4
 
 Para insertar imágenes se hace lo siguiente:
-![Image](/images/logo.png)
+![Image](/imagenes/logo.png)
 
 ## Enlaces de interés
 
