@@ -6,30 +6,30 @@ Esto es una prueba de como crear una GitHub Page.
 
 A continuación se ven los tipos de letra que se pueden usar en GitHub Pages.
 
-```markdown
-
 - **Negrita**
 - Cursiva
 - `Código`
-- [Enlace]
-
-```
+- Enlace a la página de la [UAL](https://www.ual.es/)
+- ~~Tachado~~
 
 Para realizar una cita:
 > Se escribe así
  
 Para poner tareas se puede hacer así:
+```markdown
 - [ ] Tarea incompleta
 - [x] Tarea completada
+```
 
 Lo siguiente es una tabla:
+
 Título columna 1 | Título columna 2
 ---------------- | ----------------
 Celda 1 | Celda 2
 Celda 3 | Celda 4
 
 Para insertar imágenes se hace lo siguiente:
-![Image](escudo UAL.png)
+![Escudo UAL](/imagenes/Escudo.png)
 
 ## Enlaces de interés
 
